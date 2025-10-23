@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Rockefeller",
+    "address": "Cleveland, Ohio",
+    "image": "user-02.jpg",
+    "text": "Molestiae incidunt consequatur quis ipsa autem nam sit enim magni. Voluptas tempore rem. Explicabo a quaerat sint autem dolore ducimus ut consequatur neque. Nisi dolores quaerat fuga rem nihil nostrum. Laudantium quia consequatur molestias."
+  },
+  {
+    "id": 2,
+    "name": "Andrew Carnegie",
+    "address": "Pittsburgh, Pennsylvania",
+    "image": "user-03.jpg",
+    "text": "Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat voluptas animi adipisci. Nisi eaque consequatur. Voluptatem dignissimos ut ducimus accusantium perspiciatis. Quasi voluptas eius distinctio. Atque eos maxime."
+  },
+  {
+    "id": 3,
+    "name": "John Morgan",
+    "address": "New York City",
+    "image": "user-01.jpg",
+    "text": "Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam. Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio. Voluptatem dignissimos ut."
+  },
+  {
+    "id": 4,
+    "name": "Henry Ford",
+    "address": "Dearborn, Michigan",
+    "image": "user-06.jpg",
+    "text": "Nunc interdum lacus sit amet orci. Vestibulum dapibus nunc ac augue. Fusce vel dui. In ac felis quis tortor malesuada pretium. Curabitur vestibulum aliquam leo. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam."
+  }
+]

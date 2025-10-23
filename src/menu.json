@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "category": "Signature Blends",
+    "items": [
+      {
+        "name": "Lounge Elegance Espresso",
+        "description": "Rich and full-bodied, our signature espresso blend with notes of dark chocolate and toasted nuts.",
+        "price": 3.5
+      },
+      {
+        "name": "Velvet Mocha Delight",
+        "description": "Silky mocha infused with a hint of vanilla, crowned with velvety whipped cream.",
+        "price": 4.25
+      },
+      {
+        "name": "Caramel Macchiato Symphony",
+        "description": "A harmonious blend of espresso, steamed milk, and caramel drizzle.",
+        "price": 4.0
+      },
+      {
+        "name": "Hazelnut Heaven Latte",
+        "description": "Creamy latte with the nutty goodness of hazelnut syrup.",
+        "price": 4.3
+      },
+      {
+        "name": "French Vanilla Cappuccino",
+        "description": "Classic cappuccino with a touch of French vanilla sweetness.",
+        "price": 4.25
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Freshly Baked Pastries",
+    "items": [
+      {
+        "name": "Buttery Croissants",
+        "description": "Flaky and buttery croissants baked to perfection.",
+        "price": 2.5
+      },
+      {
+        "name": "Flaky Almond Danishes",
+        "description": "Delicate pastries filled with almond paste and sliced almonds.",
+        "price": 3.0
+      },
+      {
+        "name": "Blueberry Streusel Muffins",
+        "description": "Moist muffins bursting with blueberries and a crumbly streusel top.",
+        "price": 2.75
+      },
+      {
+        "name": "Chocolate-Filled Scones",
+        "description": "Tender scones with a surprise chocolate center.",
+        "price": 3.25
+      },
+      {
+        "name": "Raspberry Cream Cheese Danish",
+        "description": "Sweet and tangy raspberry filling in a cream cheese danish.",
+        "price": 3.25
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Gourmet Treats",
+    "items": [
+      {
+        "name": "Artisanal Dark Chocolate Truffles",
+        "description": "Luxurious dark chocolate truffles dusted with cocoa powder.",
+        "price": 2.75
+      },
+      {
+        "name": "Handcrafted Praline Bonbons",
+        "description": "Praline-filled bonbons topped with a caramelized nut.",
+        "price": 3.0
+      },
+      {
+        "name": "Pistachio and Sea Salt Toffee",
+        "description": "Crunchy toffee coated in pistachios and sea salt.",
+        "price": 4.0
+      },
+      {
+        "name": "Raspberry White Chocolate Bark",
+        "description": "Creamy white chocolate with swirls of raspberry and a sprinkle of almonds.",
+        "price": 3.5
+      },
+      {
+        "name": "Salted Caramel Brownie Bites",
+        "description": "Fudgy brownie bites with a caramel drizzle and a touch of sea salt.",
+        "price": 2.5
+      }
+    ]
+  }
+]
